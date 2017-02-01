@@ -16,6 +16,7 @@ public class Main {
             n = scan.nextInt();
 
             System.out.printf("%-12s%-12s%s\n", "Number:","Squared:","Cubed:");
+            System.out.printf("%-12s%-12s%s\n", "=======","========","======");
 
                 for (i = 1; i <= n; i++) {
 
